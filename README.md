@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yujingwen-123
 - 👀 I’m interested in seismology
 - 🌱 I’m currently learning Receiver Function -&- Joint Inversion
-- 💞️ I’m looking to collaborate on 
+- 🧐 I am studying for my master's degree at China University of Geosciences in Wuhan.
 - 📫 How to reach me email[yujingwen2002@cug.edu.cn]
 
 <!---
