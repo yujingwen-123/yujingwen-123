@@ -2,7 +2,7 @@
 - 👀 I’m interested in seismology
 - 🌱 I’m currently learning Receiver Function -&- Joint Inversion
 - 🧐 I am studying for my master's degree at China University of Geosciences in Wuhan.
-- 📫 How to reach me [email](yujingwen2002@cug.edu.cn)
+- 📫 How to reach me [edu-email](yujingwen2002@cug.edu.cn) [personal-email](yujingwen222@outlook.com)
 
 <!---
 yujingwen-123/yujingwen-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
