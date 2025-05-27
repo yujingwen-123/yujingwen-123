@@ -5,10 +5,10 @@
 - 📫 How to reach me [edu-email](yujingwen2002@cug.edu.cn) [personal-email](yujingwen222@outlook.com)
 
 - link
-- [seismic-learn](https://seismology101.readthedocs.io/en/latest/index.html) [seispy](https://seispy.xumijian.me/latest/) [gmap](https://seispy.xumijian.me/latest/)
-- [yaolabsoftware](https://yaolab.ustc.edu.cn/Cas/list.htm)  [CPS](https://rbherrmann.github.io/ComputerProgramsSeismology/index.html)
-- [GMT-CN](https://docs.gmt-china.org/latest/)  [uOttawa-LAB](https://www.uogeophysics.com/)  
-- [linux](https://man.niaoge.com/) [markdown](https://markdown.com.cn/)
+ [seismic-learn](https://seismology101.readthedocs.io/en/latest/index.html) [seispy](https://seispy.xumijian.me/latest/) [gmap](https://seispy.xumijian.me/latest/)
+ [yaolabsoftware](https://yaolab.ustc.edu.cn/Cas/list.htm)  [CPS](https://rbherrmann.github.io/ComputerProgramsSeismology/index.html)
+ [GMT-CN](https://docs.gmt-china.org/latest/)  [uOttawa-LAB](https://www.uogeophysics.com/)  
+ [linux](https://man.niaoge.com/) [markdown](https://markdown.com.cn/)
  
 <!---
 yujingwen-123/yujingwen-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
